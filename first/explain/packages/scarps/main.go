@@ -6,6 +6,5 @@ func main() {
 	fmt.Println("Hello cqy")
 	bye()
 	hey()
+	prints()
 }
-
-var bye = acb
